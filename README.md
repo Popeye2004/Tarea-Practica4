@@ -15,7 +15,7 @@ Creé una lista de 50 productos con datos variados y luego resolví 40 ejercicio
 
 ## Estructura del código
 
-- **Producto.cs**: Contiene la clase con las propiedades `Id`, `Nombre`, `Descripcion`, `Precio`, `Stock`, `Categoria` y `FechaCreacion`.
-- **Program.cs**: Incluye la generación de la colección de productos y los métodos que resuelven cada ejercicio usando LINQ.
+- **public class Producto**: Contiene la clase con las propiedades `Id`, `Nombre`, `Descripcion`, `Precio`, `Stock`, `Categoria` y `FechaCreacion`.
+- **class Program**: Incluye la generación de la colección de productos y los métodos que resuelven cada ejercicio usando LINQ.
 
 *Esta practica fue creado por Enmanuel Acevedo Arias*
