@@ -1,0 +1,14 @@
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\bin\Debug\net9.0\Practica-LINQ-CI.exe
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\bin\Debug\net9.0\Practica-LINQ-CI.deps.json
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\bin\Debug\net9.0\Practica-LINQ-CI.runtimeconfig.json
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\bin\Debug\net9.0\Practica-LINQ-CI.dll
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\bin\Debug\net9.0\Practica-LINQ-CI.pdb
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.AssemblyInfoInputs.cache
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.AssemblyInfo.cs
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.csproj.CoreCompileInputs.cache
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.dll
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\refint\Practica-LINQ-CI.dll
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.pdb
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\Practica-LINQ-CI.genruntimeconfig.cache
+C:\Users\enman\Downloads\Tarea Practica4\Practica-LINQ-CI\obj\Debug\net9.0\ref\Practica-LINQ-CI.dll
